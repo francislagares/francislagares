@@ -105,6 +105,14 @@
     <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   </a>
   &nbsp;
+  <a href='https://www.rabbitmq.com/'>
+    <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href='https://kafka.apache.org/'>
+    <img src="https://img.shields.io/badge/apache kafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white" />
+  </a>
+  &nbsp;
   <a href='https://www.prisma.io/'>
     <img src="https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white" />
   </a>
