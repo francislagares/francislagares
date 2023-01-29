@@ -56,6 +56,8 @@
     <img src="https://img.shields.io/badge/next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000" />
   </a>
   &nbsp;
+  <img  alt="react query"  src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white" />
+  &nbsp;
   <a href='https://material-ui.com/'>
     <img src='https://img.shields.io/badge/material ui-0081CB?logo=material-ui&style=for-the-badge' />
   </a>
@@ -83,13 +85,17 @@
     <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge" />
   </a>
   &nbsp;
-  <a href='https://www.mongodb.com/'>
-    <img src='https://img.shields.io/badge/mongo db-47A248?logo=mongodb&logoColor=white&style=for-the-badge' />
-  </a>
-   &nbsp;
   <a href='https://expressjs.com/'>
     <img src="https://img.shields.io/badge/Express-ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" />
   </a>
+  &nbsp;
+  <img alt="SocketIO"src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
+  &nbsp;
+  <a href='https://www.mongodb.com/'>
+    <img src='https://img.shields.io/badge/mongo db-47A248?logo=mongodb&logoColor=white&style=for-the-badge' />
+  </a>
+  &nbsp;
+  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   &nbsp;
   <a href='https://nestjs.com/'>
     <img src="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=black" />
@@ -103,6 +109,10 @@
     <img src="https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white" />
   </a>
   &nbsp
+  <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FFAB00?style=for-the-badge" />
+  &nbsp;
+<img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
+&nbsp;
   <a href='https://www.apollographql.com/docs/apollo-server/'>
     <img src="https://img.shields.io/badge/apollo server-311C87.svg?&style=for-the-badge&logo=apollo-graphql&logoColor=white" />
   </a>
@@ -126,7 +136,11 @@
   <a href='https://aws.amazon.com/'>
     <img src="https://img.shields.io/badge/AMAZON AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
-  &nbsp; 
+  &nbsp;
+  <a href='https://www.terraform.io/'>
+    <img src='https://img.shields.io/badge/terraform-7B42BC?logo=terraform&style=for-the-badge&logoColor=white' />
+  </a>
+  &nbsp;
 </p>
 
 <h4>Testing Tools</h4>
@@ -135,12 +149,20 @@
     <img src='https://img.shields.io/badge/jest-C21325?logo=jest&style=for-the-badge&logoColor=white' />
   </a>
   &nbsp;
+  <a href='https://vitest.dev/'>
+    <img src='https://img.shields.io/badge/vitest-6E9F18?logo=vitest&style=for-the-badge&logoColor=white' />
+  </a>
+  &nbsp;
   <a href='https://testing-library.com/'>
     <img src="https://img.shields.io/badge/testing library-E33332.svg?&style=for-the-badge&logo=testing-library&logoColor=white" />
   </a>
   &nbsp;
   <a href='https://www.cypress.io/'>
     <img src="https://img.shields.io/badge/Cypress-17202C.svg?&style=for-the-badge&logo=cypress&logoColor=white" />
+  </a>
+   &nbsp;
+  <a href='https://playwright.dev/'>
+    <img src="https://img.shields.io/badge/playwright-2EAD33.svg?&style=for-the-badge&logo=playwright&logoColor=white" />
   </a>
 </p>
 
@@ -157,6 +179,8 @@
   <a href='https://webpack.js.org/'>
     <img src='https://img.shields.io/badge/webpack-8DD6F9?logo=webpack&style=for-the-badge&logoColor=black' />
   </a>
+  &nbsp;
+  <img  alt="Vite"  src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   &nbsp;
   <a href='https://yarnpkg.com/'>
     <img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=yarn&logoColor=white" />
