@@ -201,11 +201,17 @@
 </p>
 
 <h3 align="center">GITHUB STATS<hr/></h3>
-<a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francislagares&theme=dark&hide=html,dockerfile" alt="francislagares" />
-</a>
-<a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=francislagares&theme=dark&show_icons=true&line_height=27&" alt="francislagares" />
-</a>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=francislagares&style=flat-square" alt="francislagares" /></p>
+[![](https://visitcount.itsvg.in/api?id=francislagares&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
+![](https://github-readme-stats.vercel.app/api?username=francislagares&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=francislagares&theme=rose_pine&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=francislagares&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+<h3 align="center">MY PLAYLIST<hr/></h3>
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hmivbknb5eexomek6d22ty4cv4&count=1&unique=yes)
+
