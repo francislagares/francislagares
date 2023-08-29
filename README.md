@@ -172,6 +172,10 @@
   <a href='https://playwright.dev/'>
     <img src="https://img.shields.io/badge/playwright-2EAD33.svg?&style=for-the-badge&logo=playwright&logoColor=white" />
   </a>
+   &nbsp;
+  <a href='https://playwright.dev/'>
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  </a>
 </p>
 
 <h4>Dev Tools</h4>
