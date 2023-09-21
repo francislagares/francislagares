@@ -56,7 +56,17 @@
     <img src="https://img.shields.io/badge/next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000" />
   </a>
   &nbsp;
-  <img  alt="react query"  src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white" />
+  <a href='https://reactrouter.com/en/main'>
+		<img src='https://img.shields.io/badge/react router-CA4245?logoWidth=30&labelColor=black&style=for-the-badge&logo=reactrouter' />
+	</a>
+  &nbsp;
+  <a href='https://tanstack.com/query/latest/docs/react/overview'>
+		<img src='https://img.shields.io/badge/react query-FF4154?logoWidth=30&style=for-the-badge&logo=reactquery&logoColor=white' />
+	</a>
+  &nbsp;
+  <a href='https://styled-components.com/'>
+		<img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' />
+	</a>
   &nbsp;
   <a href='https://material-ui.com/'>
     <img src='https://img.shields.io/badge/material ui-0081CB?logo=material-ui&style=for-the-badge' />
